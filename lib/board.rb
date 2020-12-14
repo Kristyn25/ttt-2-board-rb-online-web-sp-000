@@ -1,5 +1,5 @@
 board =
-#position 1: left 
+#position 1: left
 row[0]
 #position 2: middle
 row[1]
@@ -17,4 +17,3 @@ row [6]
 row [7]
 #position 9: third right
 row [8]
-
